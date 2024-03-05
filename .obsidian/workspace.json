@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лор/Альфа.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лор/Альфа.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лор/Альфа.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лор/Альфа.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,11 +146,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "85e4ce66f493b8eb",
+  "active": "eb5529c81041622d",
   "lastOpenFiles": [
-    "Home.md",
-    "Лор/Альфа.md",
+    "Лор/Картинки/Класс IV.png",
     "Лор/Агрессивный ИИ.md",
+    "Лор/Картинки/Класс III.png",
+    "Лор/Картинки/Класс II.png",
+    "Лор/Картинки/Класс I.png",
+    "Лор/Сюжет/Халька.md",
+    "Лор/Картинки/Халька.png",
+    "Лор/Альфа.md",
+    "README.md",
     "Лор/Агарии.md",
     "Геймдизайн/Без названия.md",
     "Геймдизайн/Референсы/Global map (Deep Rock Galactic).png"

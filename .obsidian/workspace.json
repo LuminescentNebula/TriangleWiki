@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "ac6e9f09ab63fdc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b052d9ed59ce8a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85e4ce66f493b8eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лор/Альфа.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1e754caa6caef49",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d2d6c819cc2c7e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb5529c81041622d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63cc83455c1bbacc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64cc39e656bc7135",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09d1d9d58655229a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8e8ec8a6a783568",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1541ba890b917878",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Лор/Альфа.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ee269a57c8c2868",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Лор/Альфа.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47f2d69010ff0a53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4510f536062e658",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Лор/Альфа.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "85e4ce66f493b8eb",
+  "lastOpenFiles": [
+    "Home.md",
+    "Лор/Альфа.md",
+    "Лор/Агрессивный ИИ.md",
+    "Лор/Агарии.md",
+    "Геймдизайн/Без названия.md",
+    "Геймдизайн/Референсы/Global map (Deep Rock Galactic).png"
+  ]
+}

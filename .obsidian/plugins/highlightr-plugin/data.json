@@ -1,0 +1,16 @@
+{
+  "highlighterStyle": "none",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "Клавиши": "#C0C0C0",
+    "Объект": "#00FF00",
+    "Cубъект": "#FF0000",
+    "Параметр": "#00FFFF"
+  },
+  "highlighterOrder": [
+    "Клавиши",
+    "Объект",
+    "Cубъект",
+    "Параметр"
+  ]
+}

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Лор/Astra Synthesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Лор/Astra Synthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Лор/Astra Synthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Лор/Astra Synthesis.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "eb5529c81041622d",
+  "active": "85e4ce66f493b8eb",
   "lastOpenFiles": [
+    "README.md",
     "Лор/Картинки/Класс IV.png",
     "Лор/Агрессивный ИИ.md",
     "Лор/Картинки/Класс III.png",
@@ -156,7 +157,6 @@
     "Лор/Сюжет/Халька.md",
     "Лор/Картинки/Халька.png",
     "Лор/Альфа.md",
-    "README.md",
     "Лор/Агарии.md",
     "Геймдизайн/Без названия.md",
     "Геймдизайн/Референсы/Global map (Deep Rock Galactic).png"

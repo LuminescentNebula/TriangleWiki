@@ -1,0 +1,49 @@
+<mxfile host="Electron" modified="2024-03-12T11:23:40.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="r0wDxePzylXnbztzAl2S" version="23.1.5" type="device">
+  <diagram name="Страница — 1" id="kZsgClJewu29NncPMB85">
+    <mxGraphModel dx="2333" dy="1398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-1" value="4 солдата из [[Krassus]], 4 инженера из [[Elysium]], 4 исследователя из [[Astra Synthesis]] и [[Халька]]. Их сопровождали 2 андроида типа “[[Vector]]”." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-2" value="Разведчик-аналитик - анализирует полученные данные, собирает сводку миссий, дает советы по подготовке" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="560" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-3" value="Оператор - управлет боевыми дронами и спутниками для разведки" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry y="560" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-4" value="Интендант - ответственный за вооружение" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-5" value="Призрак - никто его не видел, но в журнале сказано, что он на корабле (Спойлер. Он действительно на корабле, но никто его не видел)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1200" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-6" value="Медик-биолог" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="627" y="1270" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-7" value="Оружейник - улучшает, производит и обслуживает оружие и расходники" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-9" value="Оператор - управлет исследовательскими дронами и спутниками для сбора информации" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="760" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-10" value="Инженер-механик - обслуживание корабля" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="969" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-15" value="Социолог - исследует поведение противников, предсказывает дальнейшие действия" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="760" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-16" value="Физик-энергетик - обслуживание источника энергии корабля, анализ энергетических сигнатур&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="969" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1500" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-18" value="Робототехник - обслуживание роботов Vector" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1410" width="200" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

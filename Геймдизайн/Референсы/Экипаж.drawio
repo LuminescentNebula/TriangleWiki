@@ -1,0 +1,61 @@
+<mxfile host="Electron" modified="2024-03-13T10:17:57.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Fu-0YDb7oVYdPnOXHmAf" version="23.1.5" type="device">
+  <diagram name="Страница — 1" id="kZsgClJewu29NncPMB85">
+    <mxGraphModel dx="2625" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="srB62APhQQ8iUDSvO2Ck-4" value="Медблок" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="610" y="970" width="187" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-2" value="Разведчик-аналитик - анализирует полученные данные, собирает сводку миссий, дает советы по подготовке" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="850" y="470" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-3" value="Оператор - управлет боевыми дронами и спутниками для разведки" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry y="560" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-4" value="Интендант - ответственный за вооружение" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="200" y="360" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-7" value="Оружейник - улучшает, производит и обслуживает оружие и расходники" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="400" y="360" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-9" value="Оператор - управлет исследовательскими дронами и спутниками для сбора информации" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry y="760" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-10" value="Инженер-механик - обслуживание корабля" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1030" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-15" value="Социолог - исследует поведение противников, предсказывает дальнейшие действия" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="850" y="670" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-16" value="Физик-энергетик - обслуживание источника энергии корабля, анализ энергетических сигнатур&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="300" y="1130" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-5" value="Призрак - никто его не видел, но в журнале сказано, что он на корабле (Спойлер. Он действительно на корабле, но никто его не видел)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="797" y="1020" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-6" value="Медик-биолог - следит за состоянием экипажа, сходит с ума первой" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="610" y="1101" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T5NU2PMol1Ryvd0yD8M0-18" value="Робототехник - обслуживание роботов Vector" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="512" y="194" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="srB62APhQQ8iUDSvO2Ck-2" value="Инженер-механик - обслуживание корабля" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1230" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="srB62APhQQ8iUDSvO2Ck-5" value="Обслуживание" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="306.5" y="1000" width="187" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="srB62APhQQ8iUDSvO2Ck-6" value="Ангар" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="200" y="700" width="187" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="srB62APhQQ8iUDSvO2Ck-7" value="Оперативный штаб" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="650" y="610" width="187" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="srB62APhQQ8iUDSvO2Ck-8" value="" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="300" y="251" width="187" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

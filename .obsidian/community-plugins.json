@@ -1,5 +1,8 @@
 [
   "highlightr-plugin",
   "obsidian-link-converter",
-  "persistent-graph"
+  "persistent-graph",
+  "obsidian-pandoc",
+  "obsidian-dynbedded",
+  "break-page"
 ]

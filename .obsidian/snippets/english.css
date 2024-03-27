@@ -1,0 +1,4 @@
+table th:nth-of-type(1):contains("Параметры"),
+table td:nth-of-type(1):contains("Параметры") {
+  font-family: 'Consolas', sans-serif;
+}

@@ -1,0 +1,50 @@
+.glitch-container {
+  width: 200px; /* Ширина контейнера */
+  height: 200px; /* Высота контейнера */
+  position: relative;
+  overflow: hidden;
+}
+
+.glitch {
+  width: 100%;
+  height: 100%;
+  background-color: #ff0000; /* Задаем цвет фона */
+  position: absolute;
+  top: 0;
+  left: 0;
+  mix-blend-mode: difference; /* Используем режим смешивания для создания эффекта глитча */
+  animation: glitch 1s infinite linear alternate-reverse;
+}
+
+@keyframes glitch {
+  0% {
+    clip-path: polygon(0 1%, 100% 1%, 100% 2%, 0 2%);
+  }
+  20% {
+    clip-path: polygon(0 1%, 100% 1%, 100% 2%, 0 2%);
+  }
+  25% {
+    clip-path: polygon(0 1%, 100% 1%, 100% 3%, 0 3%);
+  }
+  40% {
+    clip-path: polygon(0 1%, 100% 1%, 100% 3%, 0 3%);
+  }
+  45% {
+    clip-path: polygon(0 1%, 100% 1%, 100% 2%, 0 2%);
+  }
+  50% {
+    clip-path: polygon(0 1%, 100% 1%, 100% 2%, 0 2%);
+  }
+  60% {
+    clip-path: polygon(0 1%, 100% 1%, 100% 3%, 0 3%);
+  }
+  70% {
+    clip-path: polygon(0 1%, 100% 1%, 100% 3%, 0 3%);
+  }
+  75% {
+    clip-path: polygon(0 1%, 100% 1%, 100% 2%, 0 2%);
+  }
+  100% {
+    clip-path: polygon(0 1%, 100% 1%, 100% 2%, 0 2%);
+  }
+}

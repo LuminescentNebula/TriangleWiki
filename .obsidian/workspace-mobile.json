@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "39a3c0a70ebb6b5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f33b89e384a3c134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48d815dd937799da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Геймдизайн/Вылазка/Инвентарь.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f29e49cf6bf06a8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2a734393a1466329",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "067e73b304157f0c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e44ee45fb715ac33",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b29a704cee4aa327",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "755c05bec02eaf3b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8ba6408843ce3417",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Геймдизайн/Вылазка/Инвентарь.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f3d92634e9326881",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Геймдизайн/Вылазка/Инвентарь.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "099f6b42bfec9310",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Геймдизайн/Вылазка/Инвентарь.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false
+    }
+  },
+  "active": "48d815dd937799da",
+  "lastOpenFiles": []
+}
